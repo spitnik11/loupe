@@ -1,0 +1,10 @@
+{
+  "name": "loupe",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local marketing-video editor whose recorder lives in the browser toolbar. Record once, export every aspect ratio.",
+  "scripts": {
+    "test": "node --test"
+  }
+}

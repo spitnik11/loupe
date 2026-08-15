@@ -1,0 +1,10 @@
+node_modules/
+dist/
+target/
+*.log
+.DS_Store
+
+# Recorded projects / large media (local scratch, never committed)
+recordings/
+*.webm
+*.mp4
